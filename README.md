@@ -8,6 +8,6 @@ npm i coils-env -S
 
 ### Usage
 ```
-application.use(require('coils-env'), path)
+application.use(require('coils-env'), [path])
 ```
 - path: default `config/env.json`
